@@ -19,8 +19,9 @@ The features are listed below, in the order of the output\_ppl.txt file.
 
 The units are the following:
 
--   contants *acc*: g, gravity  
--   contains *gyro*: radians/second
+-   contains **acc**: g, gravity  
+-   contains **gyro**: radians/second  
+-   activity and person are string and numeric, respectively
 
 <!-- -->
 
