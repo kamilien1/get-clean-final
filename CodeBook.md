@@ -17,6 +17,13 @@ Extracted Features
 
 The features are listed below, in the order of the output\_ppl.txt file.
 
+The units are the following:
+
+-   contants *acc*: g, gravity  
+-   contains *gyro*: radians/second
+
+<!-- -->
+
     ##  [1] "activity"                    "person"                     
     ##  [3] "tBodyAcc-mean()-X"           "tBodyAcc-mean()-Y"          
     ##  [5] "tBodyAcc-mean()-Z"           "tBodyAcc-std()-X"           
